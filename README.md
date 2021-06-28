@@ -12,4 +12,5 @@
 ### reminder 3
 **I can _learn from others around me_ who may seem to understand the material better**
 
+## About me
 ##### Hello reader, my name is D'Angelo Ackerson. I love to learn about conspiracy theories and play video games in my free time. I like my peace and quiet but I don't mind being around others.
