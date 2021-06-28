@@ -1,4 +1,6 @@
 # reading-notes
+
+## Growth Mindset
 ***growth mindset in my own words is - mentally preparing yourslef for obstacles and challenges and look forward to overcoming those challenges rather than giving up when you feel stuck, also looking forward to making progress day by day rather than expecting to master the material in one day***
 
 ## reminder 1
