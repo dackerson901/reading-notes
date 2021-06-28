@@ -13,4 +13,4 @@
 **I can _learn from others around me_ who may seem to understand the material better**
 
 ## About me
-##### [My Github Profile] (https://github.com/dackerson901)
+##### [My Github Profile](https://github.com/dackerson901)
