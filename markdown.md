@@ -2,7 +2,7 @@
 
 #### Markdown is a tool you can use to style texts on a document
 
-### Markdown Examples
+## Markdown Examples
 
 ## Headers
 
