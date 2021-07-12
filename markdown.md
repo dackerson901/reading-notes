@@ -1,32 +1,32 @@
 # Markdown Notes
 
-#### Markdown is a tool you can use to style texts on a document
+##### Markdown is a tool you can use to style texts on a document
 
 ## Markdown Examples
 
-## Headers
+### Headers
 
-### You can determine how important a text is by the amount of # you use
+#### You can determine how important a text is by the amount of # you use
 
-## Quoting
+### Quoting
 
-### If you’d like to quote someone, use the > character before the line
+#### If you’d like to quote someone, use the > character before the line
 
-## Listing
+### Listing
 
-### Use * or - for bullet points lists
+#### Use * or - for bullet points lists
 
-### Use 1,2,3,etc for numbered lists
+#### Use 1,2,3,etc for numbered lists
 
-### If you have sub points, put two spaces before the dash or star
+#### If you have sub points, put two spaces before the dash or star
 
-## Images
+### Images
 
-### If you want to add images with link to it you do ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+#### If you want to add images with link to it you do ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-## Markdowning Code
+### Markdowning Code
 
-### There are many different ways to style code with GitHub's markdown. If you have inline code blocks, wrap them in backticks: `var example = true`.  If you've got a longer block of code, you can indent with four spaces
+#### There are many different ways to style code with GitHub's markdown. If you have inline code blocks, wrap them in backticks: `var example = true`.  If you've got a longer block of code, you can indent with four spaces
 
     if (isAwesome){
       return true
