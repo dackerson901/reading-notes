@@ -2,4 +2,6 @@
 
 [Growth Mindset](/reading-notes/growthmindset)
 
-[Revisions & The Cloud]((/reading-notes/revisions-and-thecloud))
+[Revisions & The Cloud](/reading-notes/revisions-and-thecloud)
+
+[Markdown Notes](/reading-notes/markdown)
