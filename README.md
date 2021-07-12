@@ -7,3 +7,5 @@
 [Markdown Notes](/reading-notes/markdown)
 
 [The Coders Computer](/reading-notes/the-coders-computer)
+
+[Structure Web Pages With HTML](/reading-notes/the-coders-computer)
