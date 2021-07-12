@@ -5,3 +5,5 @@
 [Revisions & The Cloud](/reading-notes/revisions-and-thecloud)
 
 [Markdown Notes](/reading-notes/markdown)
+
+[The Coders Computer](/reading-notes/the-coders-computer)
