@@ -14,4 +14,4 @@
 
 [The Coders Computer](/reading-notes/the-coders-computer)
 
-[Structure Web Pages With HTML](/reading-notes/structure-webpages-html)
+[Structure Web Pages With HTML](/reading-notes/structure-web-pages-html)
