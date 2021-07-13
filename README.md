@@ -16,4 +16,4 @@
 
 [Structure Web Pages With HTML](/reading-notes/structure-web-pages-html)
 
-[CSS](reading-notes/CSS) 
+[CSS](/reading-notes/CSS) 
