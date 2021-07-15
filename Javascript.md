@@ -52,3 +52,39 @@
 ## Conditional operator ‘?’
 
 - Sometimes, we need to assign a variable depending on a condition.
+
+## Control flow
+
+- The control flow is the order in which the computer executes statements in a script.
+
+- Code is run in order from the first line in the file to the last line
+
+## Function declarations
+
+- A function definition (also called a function declaration, or function statement) consists of the function keyword, followed by:
+
+- The name of the function.
+
+- A list of parameters to the function, enclosed in parentheses and separated by commas.
+
+- The JavaScript statements that define the function, enclosed in curly brackets, {...}.
+
+## Calling functions
+
+- Defining a function does not execute it. Defining it names the function and specifies what to do when the function is called.
+
+- Calling the function actually performs the specified actions with the indicated parameters. For example, if you define the function square, you could call it as follows:
+
+## Recursion
+
+- A function can refer to and call itself. There are three ways for a function to refer to itself:
+
+        - The function's name
+        - 
+        arguments.callee
+        
+        - An in-scope variable that refers to the function
+
+## Closures
+
+- Closures are one of the most powerful features of JavaScript. JavaScript allows for the nesting of functions and grants the inner function full access to all the variables and functions defined inside the outer function (and all other variables and functions that the outer function has access to).        
