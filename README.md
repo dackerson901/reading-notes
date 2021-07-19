@@ -4,6 +4,8 @@
 
 # Table Of Contents
 
+# Code 102 Reading Notes
+
 [My Github Profile](https://github.com/dackerson901)
 
 [Growth Mindset](/reading-notes/growthmindset)
@@ -19,4 +21,6 @@
 [CSS](/reading-notes/CSS)
 
 [Javascript](/reading-notes/Javascript)
+
+# Code 201 Reading Notes
 
